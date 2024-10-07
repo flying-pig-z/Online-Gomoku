@@ -1,6 +1,6 @@
 ## 简介
 
-简易的联机版五子棋，C语言编写。
+简易的联机版五子棋，C语言编写，Linux版本。
 
 分为三个程序，白棋客户端，黑棋客户端和服务端。
 
@@ -17,6 +17,8 @@
 <img src="https://github.com/user-attachments/assets/dece8481-3af4-48b8-9281-5d9f380d9ff1" width="50%" />
 
 ## 使用
+
+在Linux中运行！！！
 
 ```bash
 git clone https://github.com/flying-pig-z/Online-Gomoku
